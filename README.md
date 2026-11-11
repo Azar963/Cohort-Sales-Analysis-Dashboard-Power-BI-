@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://app.powerbi.com/links/xmq-_qndGL?ctid=d8951f7f-6451-4c56-9e5f-2ad53476f070&pbi_source=linkShare">
-    <img src="images/dashboard-overview.png" alt="Cohort Analysis Dashboard" width="900">
+    <img src="dashboard.png" alt="Cohort Analysis Dashboard" width="900">
   </a>
 </p>
 
 <p align="center">
   <a href="https://app.powerbi.com/links/xmq-_qndGL?ctid=d8951f7f-6451-4c56-9e5f-2ad53476f070&pbi_source=linkShare"><b>🔗 View the Live Dashboard</b></a>
-  &nbsp;|&nbsp;
+
 </p>
 
 ---
@@ -604,8 +604,8 @@ cohort-sales-dashboard/
 **Azar Shaik**
 Data / BI Analyst · 3+ years of experience · **open to new opportunities**
 
-- 💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/azarshaik/)
+- 💼 LinkedIn: https://www.linkedin.com/in/azarshaik/
 - 📧 Email: Azarshaik963@gmail.com
-- 🔗 Live dashboard: [View here]([https://app.powerbi.com/links/xmq-_qndGL?ctid=d8951f7f-6451-4c56-9e5f-2ad53476f070&pbi_source=linkShare])
+- 🔗 Live dashboard: [View here](https://app.powerbi.com/links/xmq-_qndGL?ctid=d8951f7f-6451-4c56-9e5f-2ad53476f070&pbi_source=linkShare)
 
 If this project helped you, a ⭐ on the repo is appreciated.
